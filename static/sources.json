@@ -1,0 +1,10 @@
+{
+	"source-a" :  "this is from source-a",
+	"source-b" :  "this is from source-b",
+	"source-c" :  "./static/image/source-c.jpg",
+	"source-d" :  "./static/image/source-d.jpg",
+	"source-e" :  [],
+	"source-f" :  [],
+	"camera1" :  "192.168.220.239:8084",
+	"camera2" :  ""
+}

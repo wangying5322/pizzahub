@@ -1,0 +1,3 @@
+export const SOCKET_CONNECT = 'SOCKET_CONNECT'
+
+export const INIT_SOURCES = 'INIT_SOURCES'
